@@ -6,19 +6,19 @@ const Footer = () => {
           <div>
             <img
               src="https://cdn.poehali.dev/files/6aec353e-63dd-4e48-a72b-71485b346139.png"
-              alt="Выставка кошек"
+              alt="Выставка кошек Ярославль"
               className="h-16 w-auto mb-4"
             />
             <p className="text-muted-foreground">
-              Официальная выставка кошек под эгидой WCF
+              Региональная выставка кошек в Ярославле
             </p>
           </div>
           <div>
             <h4 className="font-montserrat font-semibold mb-4">Контакты</h4>
-            <p className="text-muted-foreground mb-2">📞 +7 (495) 123-45-67</p>
-            <p className="text-muted-foreground mb-2">✉️ info@catshow.ru</p>
+            <p className="text-muted-foreground mb-2">📞 +7 (4852) 123-45-67</p>
+            <p className="text-muted-foreground mb-2">✉️ info@yarcat.ru</p>
             <p className="text-muted-foreground">
-              📍 КВЦ "Сокольники", павильон 4
+              📍 ТРК "Ярославский Вернисаж", пос. Нагорный, ул. Дорожная, 6а
             </p>
           </div>
           <div>
@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-muted-foreground">
-            © 2024 Выставка кошек. Все права защищены.
+            © 2024 Выставка кошек Ярославль. Все права защищены.
           </p>
         </div>
       </div>

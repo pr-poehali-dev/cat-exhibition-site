@@ -7,15 +7,15 @@ const Header = () => {
         <div className="flex items-center space-x-4">
           <img
             src="https://cdn.poehali.dev/files/6aec353e-63dd-4e48-a72b-71485b346139.png"
-            alt="Выставка кошек"
+            alt="Выставка кошек Ярославль"
             className="h-12 w-auto"
           />
           <div>
             <h1 className="text-xl font-montserrat font-bold text-foreground">
-              Выставка кошек
+              Выставка кошек Ярославль
             </h1>
             <p className="text-sm text-muted-foreground">
-              Элитные породы • Москва 2024
+              Региональная выставка • Ярославль 2024
             </p>
           </div>
         </div>

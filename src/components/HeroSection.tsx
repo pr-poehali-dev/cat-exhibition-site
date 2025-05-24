@@ -5,14 +5,14 @@ const HeroSection = () => {
     <section className="relative bg-gradient-to-br from-beige-50 via-peach-50 to-beige-100 py-20">
       <div className="container mx-auto px-4 text-center">
         <h2 className="text-5xl md:text-6xl font-montserrat font-bold text-foreground mb-6 animate-fade-in">
-          Выставка элитных
+          Региональная выставка
           <br />
-          <span className="text-primary">породистых кошек</span>
+          <span className="text-primary">кошек в Ярославле</span>
         </h2>
         <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto animate-fade-in">
-          Откройте для себя мир удивительных кошачьих пород. Встретьтесь с
-          лучшими представителями фелинологического сообщества и насладитесь
-          грацией этих прекрасных созданий.
+          Присоединяйтесь к фелинологическому сообществу! Демонстрация
+          породистых кошек, конкурсы, обмен опытом между заводчиками и
+          популяризация ответственного содержания домашних животных.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in">
           <Button
